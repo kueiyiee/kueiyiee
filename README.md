@@ -72,7 +72,7 @@ More advanced projects are actively under development.
 
 ## 🌐 Online Presence & Contact
 🌍 Website: **https://kueiyiee.tech**  
-📧 Email: **contactline@kueiyiee.tech**  
+📧 Email: **hello@kueiyiee.tech**  
 💻 GitHub: **https://github.com/kueiyiee**
 
 
