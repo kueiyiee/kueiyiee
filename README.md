@@ -72,7 +72,7 @@ More advanced projects are actively under development.
 
 ## 🌐 Online Presence & Contact
 🌍 Website: **https://kueiyiee.tech**  
-📧 Email: **kuei.poch@cs.du.et**  
+📧 Email: **kuei.poch@du.edu.et**  
 💻 GitHub: **https://github.com/kueiyiee**
 
 
