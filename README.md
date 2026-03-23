@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:ital,wght@1,500&size=28&duration=7000&pause=3000&color=00FF7F&center=true&vCenter=true&width=1000&lines=%3Ci%3EPrecision+in+Code.+Clarity+in+Design.+Impact+in+Execution.%3C%2Fi%3E" />
-</p>
----
-
 # 👋 Hi, I’m Kuei Poch Kuei  
 
 🚀 3rd Year CS Undergraduate Student | Full-Stack Developer | Creative Thinker 🧠
