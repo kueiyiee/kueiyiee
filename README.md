@@ -50,8 +50,6 @@ A platform that helps students learn faster using AI:
 - Progress tracking dashboard  
 - Chat-based tutor assistant  
 
-💡 *Why it stands out:* Combines **AI + full-stack + real-world impact**
-
 ---
 
 ### 💼 2. Freelance Marketplace System (Like Fiverr)  
@@ -60,8 +58,6 @@ A complete platform where users can:
 - Post jobs and bids  
 - Secure messaging system  
 - Payment workflow simulation  
-
-💡 *Why it stands out:* Shows **real business system design**
 
 ---
 
@@ -72,8 +68,6 @@ A modern healthcare system:
 - Admin analytics  
 - Notification system  
 
-💡 *Why it stands out:* Demonstrates **complex system architecture**
-
 ---
 
 ### 📊 4. Real-Time Data Dashboard (Analytics System)  
@@ -82,8 +76,6 @@ A live dashboard system:
 - Graphs & analytics  
 - User-based data filtering  
 - API integration  
-
-💡 *Why it stands out:* Shows **advanced frontend + backend integration**
 
 ---
 
