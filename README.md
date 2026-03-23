@@ -5,10 +5,8 @@
 
 # 👋 Hi, I’m Kuei Poch Kuei  
 
-🚀 **Undergraduate CS Student | Full-Stack Developer | Creative Thinker**  
-
-🎓 Computer Science  
-🏫 Dilla University – College of Engineering and Technology  
+🚀 3rd Year CS Undergraduate Student | Full-Stack Developer | Creative Thinker 🧠
+🎓 Dilla University — College of Engineering & Technology, School of Computing and Informatics 
 
 ---
 
