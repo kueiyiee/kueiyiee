@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kuei Poch Kuei from Dilla University, Ethiopia
 
-🚀 3rd Year CS Undergraduate Student | Full-Stack Developer | Creative Thinker 🧠
+🚀 4th Year CS Undergraduate Student | Full-Stack Developer | Creative Thinker 🧠
 
 🎓 Dilla University, College of Engineering & Technology, School of Computing and Informatics 
 
